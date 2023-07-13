@@ -7,7 +7,8 @@ This project includes two main pages:
 #### `Home`
 - Show all videos from database with the following informations: `title`, `shared by`, `like count`, `dislike count`, `description` and `youtube video player` to play video.
 - `Loadmore` feature can be load more videos when loadmore button is cliked.
-####`Share a video`
+
+#### `Share a video`
 - The second page is a screen to share a Youtube video by video URL.
 
 Otherwise the application has also authentication feature when user login/register or logout.
