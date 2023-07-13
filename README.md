@@ -25,14 +25,20 @@ Make sure you have posgresql installed on your machine before you create the dat
 
 Make sure your terminal is in `api-gateways` directory.
 Run `npm install` to install dependencies.
+
 Run `npm run start:dev` to start development server.
+
 Note that you have to copy `sample.development.env` to `development.env` and change into correct environment variables for your machine in `src/cores/environments`.
 
 #### `Client installation`
 Make sure your terminal is in `web-apps` directory.
+
 Run `npm install` to install dependencies.
+
 Run `npm run start` to start development server.
+
 Run `npm run test` to execute tests.
+
 Note that you have to copy `.sample.env` to `.env` and change into correct evironment variables for your machine.
 
 Runs the app in the development mode in `http://localhost:3000` to view it in the browser.
